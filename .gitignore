@@ -1,7 +1,8 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-
+venv/
+.idea/
 # C extensions
 *.so
 
@@ -16,8 +17,7 @@ lib64/
 parts/
 sdist/
 var/
-venv/
-.idea/
+
 *.egg-info/
 .installed.cfg
 *.egg
